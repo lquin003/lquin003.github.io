@@ -1,5 +1,4 @@
 Luis Quintanilla
-html5up.net | @ajlkn
 
 
 This is Dimension, a fun little one-pager with modal-ized (is that a word?) "pages"
